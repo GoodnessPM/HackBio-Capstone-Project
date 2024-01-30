@@ -16,3 +16,5 @@ Link to Dataset: https://raw.githubusercontent.com/HackBio-Internship/public_dat
   - Age and Gender
   - BMI and Diabetes
   - Alcohol Year and Relationship Status
+ 
+Repository above contains the codes(HackBio Project.R), the rmd file and the output in pdf format.
