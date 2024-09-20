@@ -1,4 +1,4 @@
-# Project: Public Health: National Nutritional Health wriiten in R
+# Project: Public Health: National Nutritional Health 
 ### HackBio-Capstone-Project
 #### This Project is one of the capstone project to show mastery of the HackBio course, Data Science with R for Life Scientists: Beginners. Link to HackBio: https://thehackbio.com/
 
